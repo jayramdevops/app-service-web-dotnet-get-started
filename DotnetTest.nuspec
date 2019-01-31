@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Test</id>
+    <version>1.0.0</version>
+	<title>samplePack</title>
+    <authors>Thumati</authors>
+    <owners>Thumati</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Designed to create package with required data</description>
+	<language>en-US</language>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+  </metadata>
+  <files>
+    <file src="build\*" target="site\" />
+  </files>
+</package>
